@@ -12,9 +12,11 @@
 | [**shadcnui-blocks**](https://www.shadcnui-blocks.com/) | A library of predesigned UI blocks using Shadcn UI. |
 | [**kibo-ui**](https://www.kibo-ui.com/) | Professional-grade UI components and templates for Tailwind CSS. |
 | [**coss**](https://coss.com/origin) | Modern design system and Tailwind-based component kit. |
+| [**jollyui**](https://www.jollyui.dev/docs/components/color) | A beautiful collection jollyui powered by Tailwind CSS. |
 | [**Tweakcn**](https://tweakcn.com/) | A customizable Tailwind + Shadcn component library designed for creating modern, dynamic UIs. |
 | [**magicui**](https://magicui.design/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
 | [**aceternity**](https://ui.aceternity.com/) | A beautiful collection of animated UI elements powered by Tailwind CSS. |
+
 
 ---
 
